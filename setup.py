@@ -9,6 +9,7 @@ setup(
     version='1.0.0',
     packages=find_packages(),
     install_requires=[
+        "ntt-signal"
     ],
     author='threezinedine',
     author_email='threezinedine@email.com',
